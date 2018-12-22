@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+pandas
+sklearn
+nltk
+notebook
+nbimporter
+torch
